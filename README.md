@@ -7,6 +7,8 @@ In this project I have a lot of interest for watching mma fights and was curious
 
 The data I went to the list of fighters to get the URL's to their fighter profiles, and from there visted each url to extract 23 features that would make the raw dataset The framework used to scrape/collect the data was python scrapy. Feature Engineering and Data cleaning was done with with Pandas Numpy.The Explaratory Data Anaylysis and Visualisation was performed with Seaborn and Matplotlib. The deployment was done with Streamlit.
 
+Link to Website: https://himnishchopra1-mma-fighters-dataset-analysis-main-xfygfm.streamlitapp.com/
+
 
 ## [Project 2: Maven-Fuzzy-Factory-Ecommerce-Store-Analysis](https://github.com/himnishchopra1/Maven-Fuzzy-Factory-Ecommerce-Store-Analysis)
 In this project I have assumed the role of a data analyst for the Maven Fuzzy Factory Ecommerce start-up where I work with the CEO, Marketing Director and Website Manager to analyze the performance of the website and help grow the business by guiding its actions. I use advanced SQL queries to perform the tasks that a business intelligence professional or data analyst would encounter in real life.
