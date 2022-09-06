@@ -1,4 +1,4 @@
-# Data-Science-Portfolio
+# Himnish Chopra's Portfolio Projects
 A group of my data science projects to demonstrate my skills, knowledge and interests.
 
 ## [Project 1: MMA Fighters Dataset Analysis](https://github.com/himnishchopra1/MMA-Fighters-Dataset-Analysis)
