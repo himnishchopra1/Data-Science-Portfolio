@@ -1,5 +1,11 @@
 # Himnish Chopra's Portfolio Projects
-A group of my data science projects to demonstrate my skills, knowledge and interests.
+A group of my data analyst projects to demonstrate my skills, knowledge and interests.
+
+## Project 1: Road-Accident-Analysis-A-Comprehensive-Analysis-using-Power-BI
+
+![image](https://user-images.githubusercontent.com/91419941/232242170-11da6922-9830-4a97-82b9-8d4afba96b37.png)
+
+This project utilized road accident data to create a comprehensive dashboard that provides insights and summaries of the data. The dashboard includes primary KPIs such as total casualties and total accident values for the current year and year-on-year growth, as well as total casualties by accident severity. Secondary KPIs include total casualties by vehicle type for the current year. The dashboard also features monthly trends, casualties by road type, current year casualties by area/location and by day/night, and total casualties and accidents in London. The project demonstrates skills in data cleaning, processing, modeling, dashboard and chart design, and data visualization using DAX calculations and measures.
 
 ## [Project 1: MMA Fighters Dataset Analysis](https://github.com/himnishchopra1/MMA-Fighters-Dataset-Analysis)
 
