@@ -1,7 +1,7 @@
 # Himnish Chopra's Portfolio Projects
 A group of my data analyst projects to demonstrate my skills, knowledge and interests.
 
-## Project 1: Road-Accident-Analysis-A-Comprehensive-Analysis-using-Power-BI
+## [Project 1: Road-Accident-Analysis-A-Comprehensive-Analysis-using-Power-BI](https://github.com/himnishchopra1/Road-Accident-Analysis-A-Comprehensive-Analysis-using-Power-BI.git)
 
 ![image](https://user-images.githubusercontent.com/91419941/232242170-11da6922-9830-4a97-82b9-8d4afba96b37.png)
 
